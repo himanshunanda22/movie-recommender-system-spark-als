@@ -1,5 +1,8 @@
-# movie-recommender
-## Description: Developed a movie recommender system using collaborative filtering with Spark's Alternating Least Squares (ALS) implementation on the MovieLens dataset. This system leverages user-item interaction data to provide personalized movie recommendations.
+# Movie-Recommender
+
+## Description
+
+Developed a movie recommender system using collaborative filtering with Spark's Alternating Least Squares (ALS) implementation on the MovieLens dataset. This system leverages user-item interaction data to provide personalized movie recommendations.
 
 ## Technologies Used:
 
